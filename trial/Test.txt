@@ -1,2 +1,3 @@
 Sunny day
 Cold day
+Hot weather
